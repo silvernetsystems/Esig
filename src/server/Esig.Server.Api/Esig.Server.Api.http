@@ -1,0 +1,6 @@
+@Esig.Server.Api_HostAddress = http://localhost:5252
+
+GET {{Esig.Server.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
